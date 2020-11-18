@@ -1,4 +1,4 @@
-# GitHub-Actions-1.0
+# Jekyll site CI
 
 
 Status of Last Deployment:<br>
