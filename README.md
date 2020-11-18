@@ -1,6 +1,3 @@
-# github-actions1
-github-actions part1
-
 # GitHub Actions 1.0
 
 
