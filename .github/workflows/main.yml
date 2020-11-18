@@ -2,11 +2,11 @@
 # GitHub Action Workflow Basics
 #
 # Version      Date        Info
-# 1.0          2019        Initial Version
+# 1.0          2020        Initial Version
 #
-# Made by Denis Astahov ADV-IT Copyleft (c) 2019
+# Made by alexanderstavitsky Copyleft (c) 2020
 #---------------------------------------------------------------------
-name: My-GitHubActions-Basics
+name: GitHub-Actions-1.0
 env:
   APPLICATION_NAME    : "MyFlask"
   DEPLOY_PACKAGE_NAME : "flask-deploy-ver-${{ github.sha }}"
